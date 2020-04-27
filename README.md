@@ -1900,7 +1900,7 @@ Qu&#7853;n 1, TPHCM</font></p>
 		<td width="303" style="border: none; padding: 0in"><h4 class="western" style="margin-left: 0in; margin-top: 0.03in">
 			<font face="Times New Roman, serif"><font size="3" style="font-size: 12pt">TP.
 			H&#7891; Ch&iacute; Minh, ng&agrave;y &hellip;  th&aacute;ng &hellip;
-			n&#259;m 2019</font></font><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt"><b>
+			n&#259; </font></font><font face="Times New Roman, serif"><font size="3" style="font-size: 12pt"><b>
 			</b></font></font>
 			</h4>
 			<h4 class="western" style="margin-left: 0in">   <font face="Times New Roman, serif"><font size="3" style="font-size: 12pt"><span style="font-style: normal"><b>TR&#431;&#7902;NG
@@ -1917,5 +1917,3 @@ Qu&#7853;n 1, TPHCM</font></p>
 
 	</p>
 </div>
-</body>
-</html>
