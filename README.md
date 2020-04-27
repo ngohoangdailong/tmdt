@@ -1,4 +1,4 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+Tham khảo đề cương học tập
 <html>
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1"/>
